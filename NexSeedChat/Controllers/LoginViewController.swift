@@ -17,6 +17,7 @@ class LoginViewController: UIViewController {
         
         GIDSignIn.sharedInstance().delegate = self
         GIDSignIn.sharedInstance().uiDelegate = self
+        
     }
 
 }
@@ -46,6 +47,7 @@ extension LoginViewController: GIDSignInDelegate, GIDSignInUIDelegate {
                 print(err.localizedDescription)
             } else {
                 print("ログインに成功しました")
+                self.performSegue(withIdentifier: "toChat", sender: nil)
             }
             
         }
