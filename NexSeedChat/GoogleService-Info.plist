@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>238446524548-cr48vc1dokapnrk8sn2ojdmrlefnc6kl.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.238446524548-cr48vc1dokapnrk8sn2ojdmrlefnc6kl</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBd9rG8q71nqfa5fS5SJQUBk35WBMpKdP8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>238446524548</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.NexSeedChat</string>
+	<key>PROJECT_ID</key>
+	<string>nexseedchat-a2875</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nexseedchat-a2875.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:238446524548:ios:35e5736a0e9178b9</string>
+	<key>DATABASE_URL</key>
+	<string>https://nexseedchat-a2875.firebaseio.com</string>
+</dict>
+</plist>
